@@ -1,0 +1,465 @@
+{
+    "16_1": {
+        "schedule": ["exhibition2 from 0:19:0 to 0:21:0 at exhibition2"],
+        "queryTime": "0:16:27",
+        "startTime": "0:16:27",
+        "endTime": "0:23:59"
+    },
+    "15_1": {
+        "schedule": [
+            "food2 from 0:16:0 to 0:17:30 at food2",
+            "exhibition2 from 0:19:0 to 0:21:0 at exhibition2"
+        ],
+        "queryTime": "0:15:14",
+        "startTime": "0:15:14",
+        "endTime": "0:23:59"
+    },
+    "16_0": {
+        "schedule": [
+            "food2 from 0:17:30 to 0:19:0 at food2",
+            "exhibition3 from 0:20:0 to 0:21:30 at exhibition3"
+        ],
+        "queryTime": "0:16:36",
+        "startTime": "0:16:36",
+        "endTime": "0:23:59"
+    },
+    "11_4": {
+        "schedule": [
+            "food1 from 0:12:0 to 0:13:0 at food1",
+            "food3 from 0:15:0 to 0:16:0 at food3",
+            "food2 from 0:17:30 to 0:19:0 at food2",
+            "exhibition3 from 0:21:0 to 0:22:30 at exhibition3"
+        ],
+        "queryTime": "0:11:4",
+        "startTime": "0:11:4",
+        "endTime": "0:23:59"
+    },
+    "13_2": {
+        "schedule": [
+            "food1 from 0:15:0 to 0:16:0 at food1",
+            "exhibition3 from 0:18:0 to 0:19:30 at exhibition3",
+            "food2 from 0:20:30 to 0:22:0 at food2"
+        ],
+        "queryTime": "0:13:51",
+        "startTime": "0:13:51",
+        "endTime": "0:23:59"
+    },
+    "14_1": {
+        "schedule": [
+            "exhibition3 from 0:16:0 to 0:17:30 at exhibition3",
+            "food2 from 0:19:0 to 0:20:30 at food2",
+            "exhibition2 from 0:21:0 to 0:23:0 at exhibition2"
+        ],
+        "queryTime": "0:14:3",
+        "startTime": "0:14:3",
+        "endTime": "0:23:59"
+    },
+    "15_0": {
+        "schedule": [
+            "food3 from 0:16:30 to 0:17:30 at food3",
+            "exhibition2 from 0:21:0 to 0:23:0 at exhibition2"
+        ],
+        "queryTime": "0:15:39",
+        "startTime": "0:15:39",
+        "endTime": "0:23:59"
+    },
+    "10_4": {
+        "schedule": [
+            "exhibition1 from 0:13:30 to 0:14:30 at exhibition1",
+            "exhibition3 from 0:15:0 to 0:16:30 at exhibition3",
+            "exhibition2 from 0:19:0 to 0:21:0 at exhibition2"
+        ],
+        "queryTime": "0:10:52",
+        "startTime": "0:10:52",
+        "endTime": "0:23:59"
+    },
+    "11_3": {
+        "schedule": [
+            "exhibition1 from 0:13:30 to 0:14:30 at exhibition1",
+            "food3 from 0:16:30 to 0:17:30 at food3",
+            "exhibition3 from 0:19:0 to 0:20:30 at exhibition3"
+        ],
+        "queryTime": "0:11:37",
+        "startTime": "0:11:37",
+        "endTime": "0:23:59"
+    },
+    "12_2": {
+        "schedule": [
+            "food1 from 0:13:30 to 0:14:30 at food1",
+            "exhibition2 from 0:17:0 to 0:19:0 at exhibition2",
+            "exhibition3 from 0:20:0 to 0:21:30 at exhibition3"
+        ],
+        "queryTime": "0:12:52",
+        "startTime": "0:12:52",
+        "endTime": "0:23:59"
+    },
+    "13_1": {
+        "schedule": [
+            "food1 from 0:15:0 to 0:16:0 at food1",
+            "food2 from 0:17:30 to 0:19:0 at food2",
+            "exhibition3 from 0:21:0 to 0:22:30 at exhibition3"
+        ],
+        "queryTime": "0:13:53",
+        "startTime": "0:13:53",
+        "endTime": "0:23:59"
+    },
+    "14_0": {
+        "schedule": [
+            "food3 from 0:16:30 to 0:17:30 at food3",
+            "food2 from 0:20:30 to 0:22:0 at food2"
+        ],
+        "queryTime": "0:14:45",
+        "startTime": "0:14:45",
+        "endTime": "0:23:59"
+    },
+    "10_3": {
+        "schedule": [
+            "food1 from 0:10:30 to 0:11:30 at food1",
+            "food3 from 0:13:30 to 0:14:30 at food3",
+            "exhibition3 from 0:17:0 to 0:18:30 at exhibition3"
+        ],
+        "queryTime": "0:10:0",
+        "startTime": "0:10:0",
+        "endTime": "0:23:59"
+    },
+    "11_2": {
+        "schedule": [
+            "food1 from 0:13:30 to 0:14:30 at food1",
+            "food3 from 0:16:30 to 0:17:30 at food3",
+            "exhibition2 from 0:19:0 to 0:21:0 at exhibition2"
+        ],
+        "queryTime": "0:11:37",
+        "startTime": "0:11:37",
+        "endTime": "0:23:59"
+    },
+    "12_1": {
+        "schedule": [
+            "food1 from 0:15:0 to 0:16:0 at food1",
+            "exhibition3 from 0:18:0 to 0:19:30 at exhibition3",
+            "food2 from 0:20:30 to 0:22:0 at food2"
+        ],
+        "queryTime": "0:12:21",
+        "startTime": "0:12:21",
+        "endTime": "0:23:59"
+    },
+    "13_0": {
+        "schedule": [
+            "exhibition1 from 0:15:0 to 0:16:0 at exhibition1",
+            "food2 from 0:17:30 to 0:19:0 at food2",
+            "exhibition3 from 0:20:0 to 0:21:30 at exhibition3"
+        ],
+        "queryTime": "0:13:22",
+        "startTime": "0:13:22",
+        "endTime": "0:23:59"
+    },
+    "10_2": {
+        "schedule": [
+            "exhibition1 from 0:13:30 to 0:14:30 at exhibition1",
+            "exhibition3 from 0:15:0 to 0:16:30 at exhibition3",
+            "food2 from 0:19:0 to 0:20:30 at food2",
+            "exhibition2 from 0:21:0 to 0:23:0 at exhibition2"
+        ],
+        "queryTime": "0:10:50",
+        "startTime": "0:10:50",
+        "endTime": "0:23:59"
+    },
+    "11_1": {
+        "schedule": [
+            "exhibition3 from 0:13:0 to 0:14:30 at exhibition3",
+            "exhibition1 from 0:15:0 to 0:16:0 at exhibition1",
+            "food2 from 0:17:30 to 0:19:0 at food2"
+        ],
+        "queryTime": "0:11:42",
+        "startTime": "0:11:42",
+        "endTime": "0:23:59"
+    },
+    "12_0": {
+        "schedule": [
+            "food3 from 0:15:0 to 0:16:0 at food3",
+            "exhibition2 from 0:17:0 to 0:19:0 at exhibition2",
+            "exhibition3 from 0:21:0 to 0:22:30 at exhibition3"
+        ],
+        "queryTime": "0:12:16",
+        "startTime": "0:12:16",
+        "endTime": "0:23:59"
+    },
+    "10_1": {
+        "schedule": [
+            "food1 from 0:12:0 to 0:13:0 at food1",
+            "exhibition1 from 0:15:0 to 0:16:0 at exhibition1",
+            "food2 from 0:19:0 to 0:20:30 at food2"
+        ],
+        "queryTime": "0:10:13",
+        "startTime": "0:10:13",
+        "endTime": "0:23:59"
+    },
+    "11_0": {
+        "schedule": [
+            "food1 from 0:13:30 to 0:14:30 at food1",
+            "exhibition2 from 0:17:0 to 0:19:0 at exhibition2",
+            "exhibition3 from 0:21:0 to 0:22:30 at exhibition3"
+        ],
+        "queryTime": "0:11:30",
+        "startTime": "0:11:30",
+        "endTime": "0:23:59"
+    },
+    "10_0": {
+        "schedule": [
+            "exhibition1 from 0:12:0 to 0:13:0 at exhibition1",
+            "food3 from 0:15:0 to 0:16:0 at food3",
+            "exhibition3 from 0:18:0 to 0:19:30 at exhibition3"
+        ],
+        "queryTime": "0:10:12",
+        "startTime": "0:10:12",
+        "endTime": "0:23:59"
+    },
+    "7_0": {
+        "schedule": [
+            "exhibition1 from 0:9:0 to 0:10:0 at exhibition1",
+            "food3 from 0:12:0 to 0:13:0 at food3",
+            "food1 from 0:15:0 to 0:16:0 at food1",
+            "food2 from 0:19:0 to 0:20:30 at food2"
+        ],
+        "queryTime": "0:7:12",
+        "startTime": "0:7:12",
+        "endTime": "0:23:59"
+    },
+    "7_1": {
+        "schedule": [
+            "food1 from 0:9:0 to 0:10:0 at food1",
+            "food3 from 0:12:0 to 0:13:0 at food3",
+            "exhibition3 from 0:18:0 to 0:19:30 at exhibition3",
+            "exhibition2 from 0:21:0 to 0:23:0 at exhibition2"
+        ],
+        "queryTime": "0:7:0",
+        "startTime": "0:7:0",
+        "endTime": "0:23:59"
+    },
+    "8_0": {
+        "schedule": [
+            "food1 from 0:9:0 to 0:10:0 at food1",
+            "food3 from 0:12:0 to 0:13:0 at food3",
+            "exhibition3 from 0:17:0 to 0:18:30 at exhibition3",
+            "exhibition2 from 0:21:0 to 0:23:0 at exhibition2"
+        ],
+        "queryTime": "0:8:9",
+        "startTime": "0:8:9",
+        "endTime": "0:23:59"
+    },
+    "7_2": {
+        "schedule": [
+            "food1 from 0:9:0 to 0:10:0 at food1",
+            "exhibition1 from 0:15:0 to 0:16:0 at exhibition1",
+            "exhibition3 from 0:17:0 to 0:18:30 at exhibition3",
+            "exhibition2 from 0:21:0 to 0:23:0 at exhibition2"
+        ],
+        "queryTime": "0:7:56",
+        "startTime": "0:7:56",
+        "endTime": "0:23:59"
+    },
+    "8_1": {
+        "schedule": [
+            "exhibition1 from 0:10:30 to 0:11:30 at exhibition1",
+            "food3 from 0:13:30 to 0:14:30 at food3",
+            "exhibition3 from 0:16:0 to 0:17:30 at exhibition3",
+            "food2 from 0:20:30 to 0:22:0 at food2"
+        ],
+        "queryTime": "0:8:41",
+        "startTime": "0:8:41",
+        "endTime": "0:23:59"
+    },
+    "9_0": {
+        "schedule": [
+            "exhibition1 from 0:10:30 to 0:11:30 at exhibition1",
+            "food1 from 0:13:30 to 0:14:30 at food1",
+            "food2 from 0:16:0 to 0:17:30 at food2",
+            "exhibition3 from 0:19:0 to 0:20:30 at exhibition3"
+        ],
+        "queryTime": "0:9:0",
+        "startTime": "0:9:0",
+        "endTime": "0:23:59"
+    },
+    "7_3": {
+        "schedule": [
+            "food1 from 0:9:0 to 0:10:0 at food1",
+            "exhibition3 from 0:13:0 to 0:14:30 at exhibition3",
+            "food2 from 0:16:0 to 0:17:30 at food2",
+            "exhibition2 from 0:19:0 to 0:21:0 at exhibition2"
+        ],
+        "queryTime": "0:7:20",
+        "startTime": "0:7:20",
+        "endTime": "0:23:59"
+    },
+    "8_2": {
+        "schedule": [
+            "exhibition1 from 0:10:30 to 0:11:30 at exhibition1",
+            "food3 from 0:13:30 to 0:14:30 at food3",
+            "exhibition3 from 0:16:0 to 0:17:30 at exhibition3",
+            "exhibition2 from 0:19:0 to 0:21:0 at exhibition2"
+        ],
+        "queryTime": "0:8:31",
+        "startTime": "0:8:31",
+        "endTime": "0:23:59"
+    },
+    "9_1": {
+        "schedule": [
+            "food3 from 0:12:0 to 0:13:0 at food3",
+            "food1 from 0:15:0 to 0:16:0 at food1",
+            "exhibition3 from 0:19:0 to 0:20:30 at exhibition3"
+        ],
+        "queryTime": "0:9:32",
+        "startTime": "0:9:32",
+        "endTime": "0:23:59"
+    },
+    "7_4": {
+        "schedule": [
+            "food1 from 0:9:0 to 0:10:0 at food1",
+            "food3 from 0:12:0 to 0:13:0 at food3",
+            "exhibition3 from 0:16:0 to 0:17:30 at exhibition3",
+            "food2 from 0:19:0 to 0:20:30 at food2"
+        ],
+        "queryTime": "0:7:6",
+        "startTime": "0:7:6",
+        "endTime": "0:23:59"
+    },
+    "8_3": {
+        "schedule": [
+            "exhibition1 from 0:10:30 to 0:11:30 at exhibition1",
+            "food1 from 0:13:30 to 0:14:30 at food1",
+            "exhibition2 from 0:17:0 to 0:19:0 at exhibition2",
+            "exhibition3 from 0:20:0 to 0:21:30 at exhibition3"
+        ],
+        "queryTime": "0:8:28",
+        "startTime": "0:8:28",
+        "endTime": "0:23:59"
+    },
+    "9_2": {
+        "schedule": [
+            "exhibition1 from 0:12:0 to 0:13:0 at exhibition1",
+            "food3 from 0:15:0 to 0:16:0 at food3",
+            "exhibition2 from 0:17:0 to 0:19:0 at exhibition2",
+            "exhibition3 from 0:20:0 to 0:21:30 at exhibition3"
+        ],
+        "queryTime": "0:9:23",
+        "startTime": "0:9:23",
+        "endTime": "0:23:59"
+    },
+    "8_4": {
+        "schedule": [
+            "food1 from 0:9:0 to 0:10:0 at food1",
+            "exhibition1 from 0:12:0 to 0:13:0 at exhibition1",
+            "food3 from 0:16:30 to 0:17:30 at food3",
+            "exhibition3 from 0:21:0 to 0:22:30 at exhibition3"
+        ],
+        "queryTime": "0:8:12",
+        "startTime": "0:8:12",
+        "endTime": "0:23:59"
+    },
+    "9_3": {
+        "schedule": [
+            "exhibition1 from 0:12:0 to 0:13:0 at exhibition1",
+            "food3 from 0:15:0 to 0:16:0 at food3",
+            "exhibition3 from 0:18:0 to 0:19:30 at exhibition3",
+            "food2 from 0:20:30 to 0:22:0 at food2"
+        ],
+        "queryTime": "0:9:13",
+        "startTime": "0:9:13",
+        "endTime": "0:23:59"
+    },
+    "9_4": {
+        "schedule": [
+            "food1 from 0:12:0 to 0:13:0 at food1",
+            "exhibition3 from 0:15:0 to 0:16:30 at exhibition3",
+            "food2 from 0:19:0 to 0:20:30 at food2"
+        ],
+        "queryTime": "0:9:35",
+        "startTime": "0:9:35",
+        "endTime": "0:23:59"
+    },
+    "9_5": {
+        "schedule": [
+            "food1 from 0:10:30 to 0:11:30 at food1",
+            "exhibition1 from 0:13:30 to 0:14:30 at exhibition1",
+            "exhibition3 from 0:15:0 to 0:16:30 at exhibition3",
+            "food2 from 0:17:30 to 0:19:0 at food2"
+        ],
+        "queryTime": "0:9:39",
+        "startTime": "0:9:39",
+        "endTime": "0:23:59"
+    },
+    "9_6": {
+        "schedule": [
+            "exhibition1 from 0:12:0 to 0:13:0 at exhibition1",
+            "food3 from 0:15:0 to 0:16:0 at food3",
+            "exhibition3 from 0:19:0 to 0:20:30 at exhibition3"
+        ],
+        "queryTime": "0:9:22",
+        "startTime": "0:9:22",
+        "endTime": "0:23:59"
+    },
+    "9_7": {
+        "schedule": [
+            "food1 from 0:12:0 to 0:13:0 at food1",
+            "exhibition1 from 0:15:0 to 0:16:0 at exhibition1",
+            "exhibition2 from 0:17:0 to 0:19:0 at exhibition2",
+            "exhibition3 from 0:20:0 to 0:21:30 at exhibition3"
+        ],
+        "queryTime": "0:9:26",
+        "startTime": "0:9:26",
+        "endTime": "0:23:59"
+    },
+    "9_8": {
+        "schedule": [
+            "food1 from 0:10:30 to 0:11:30 at food1",
+            "food3 from 0:13:30 to 0:14:30 at food3",
+            "food2 from 0:16:0 to 0:17:30 at food2",
+            "exhibition3 from 0:19:0 to 0:20:30 at exhibition3"
+        ],
+        "queryTime": "0:9:37",
+        "startTime": "0:9:37",
+        "endTime": "0:23:59"
+    },
+    "9_9": {
+        "schedule": [
+            "food1 from 0:10:30 to 0:11:30 at food1",
+            "exhibition1 from 0:13:30 to 0:14:30 at exhibition1",
+            "food3 from 0:16:30 to 0:17:30 at food3",
+            "exhibition3 from 0:21:0 to 0:22:30 at exhibition3"
+        ],
+        "queryTime": "0:9:29",
+        "startTime": "0:9:29",
+        "endTime": "0:23:59"
+    },
+    "9_12": {
+        "schedule": [
+            "food1 from 0:10:30 to 0:11:30 at food1",
+            "exhibition1 from 0:13:30 to 0:14:30 at exhibition1",
+            "food2 from 0:16:0 to 0:17:30 at food2",
+            "exhibition3 from 0:19:0 to 0:20:30 at exhibition3"
+        ],
+        "queryTime": "0:9:35",
+        "startTime": "0:9:35",
+        "endTime": "0:23:59"
+    },
+    "9_11": {
+        "schedule": [
+            "food1 from 0:10:30 to 0:11:30 at food1",
+            "food3 from 0:13:30 to 0:14:30 at food3",
+            "exhibition3 from 0:17:0 to 0:18:30 at exhibition3",
+            "food2 from 0:20:30 to 0:22:0 at food2"
+        ],
+        "queryTime": "0:9:10",
+        "startTime": "0:9:10",
+        "endTime": "0:23:59"
+    },
+    "9_10": {
+        "schedule": [
+            "food1 from 0:12:0 to 0:13:0 at food1",
+            "exhibition1 from 0:15:0 to 0:16:0 at exhibition1",
+            "exhibition3 from 0:17:0 to 0:18:30 at exhibition3"
+        ],
+        "queryTime": "0:9:43",
+        "startTime": "0:9:43",
+        "endTime": "0:23:59"
+    }
+}
